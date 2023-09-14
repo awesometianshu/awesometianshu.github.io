@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Tian Shu
 
 Tianshu is awesome!
